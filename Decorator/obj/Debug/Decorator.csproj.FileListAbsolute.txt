@@ -1,0 +1,6 @@
+c:\users\fall2017\documents\visual studio 2015\Projects\SDA BSE\Decorator\bin\Debug\Decorator.exe.config
+c:\users\fall2017\documents\visual studio 2015\Projects\SDA BSE\Decorator\bin\Debug\Decorator.exe
+c:\users\fall2017\documents\visual studio 2015\Projects\SDA BSE\Decorator\bin\Debug\Decorator.pdb
+c:\users\fall2017\documents\visual studio 2015\Projects\SDA BSE\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+c:\users\fall2017\documents\visual studio 2015\Projects\SDA BSE\Decorator\obj\Debug\Decorator.exe
+c:\users\fall2017\documents\visual studio 2015\Projects\SDA BSE\Decorator\obj\Debug\Decorator.pdb
